@@ -1,1 +1,200 @@
-# FBU_project
+# FBU Project
+Ideas
+===
+
+# Cheapest Destination
+
+## Table of Contents
+1. [Overview](#Overview)
+1. [Product Spec](#Product-Spec)
+1. [Wireframes](#Wireframes)
+2. [Schema](#Schema)
+
+## Overview
+### Description
+App that given a start and end location, finds the cheapest flights between the two.
+
+### App Evaluation
+[Evaluation of your app across the following attributes]
+- **Category:** Travel
+- **Mobile:** More convenient to use mobile and find transportation more easily.
+- **Story:** Users who want to travel would use this app to find the cheapest flights/busses to reach their destination.
+- **Market:** Anyone who wants to travel.
+- **Habit:** Used anytime someone wants to travel.
+- **Scope:** Start out as basic start and end destination and add more filters and features.
+
+## Product Spec
+
+### 1. User Stories (Required and Optional)
+
+**Required Must-have Stories**
+
+* can log in & log out of app
+* can save multiple start and end destinations & prices
+* can click on start & end destination combinations to see details about route
+* given start and end locations, output list of combinations of flight/busses and the prices
+
+**Optional Nice-to-have Stories**
+
+* output combination of just flights
+* output combination of just busses
+* display tourist activities at destination
+* get directions to airport/bus stop
+* filter results based on budget
+
+### 2. Screen Archetypes
+
+* log in
+   * log into app
+* list of current start and end locations
+   * can save multiple start and end destinations & prices
+* can see details about combination of flights & busses
+    * see details about route
+* enter start and end locations & loading screen
+    * given start and end locations
+
+### 3. Navigation
+
+**Tab Navigation** (Tab to Screen)
+
+* list of current start and end locations
+* enter start and end locations & loading screen
+
+**Flow Navigation** (Screen to Screen)
+
+* list of current start and end locations
+   * tapping each list of location pairs
+   * goes to details screen
+* enter start and end locations & loading screen
+   * after entering
+   * goes to details screen
+
+Clone of Matching Local Dogs with Playmates - Dog Tinder
+===
+
+# Med Matching
+
+## Table of Contents
+1. [Overview](#Overview)
+1. [Product Spec](#Product-Spec)
+1. [Wireframes](#Wireframes)
+2. [Schema](#Schema)
+
+## Overview
+### Description
+App that matches local dogs with playmates.
+
+### App Evaluation
+[Evaluation of your app across the following attributes]
+- **Category:** Dog
+- **Mobile:** More convenient to use mobile.
+- **Story:** Users who want someone to play with their dog or want to play with a dog.
+- **Market:** Anyone who likes dogs.
+- **Habit:** Used anytime someone wants to play with dogs or wants their dog to be active.
+- **Scope:** Start as just one feature - energy level - to match dogs with playmates and possibly add more features.
+
+## Product Spec
+
+### 1. User Stories (Required and Optional)
+
+**Required Must-have Stories**
+
+* can log in & log out of app
+* can see list of matches of dogs/playmates
+* can see details
+* can input energy levels
+* given start and end locations, output directions to play with dog
+
+**Optional Nice-to-have Stories**
+
+* add other features such as size/age
+* filter based on distance
+
+### 2. Screen Archetypes
+
+* log in
+   * log into app
+* list of matches & log out button
+   * can see list of matches of dogs/playmates
+* details about dogs/playmates
+    * can see details
+* enter preferences
+    * can input energy levels
+
+### 3. Navigation
+
+**Tab Navigation** (Tab to Screen)
+
+* list of current matches
+* re-enter preferences
+
+**Flow Navigation** (Screen to Screen)
+
+* list of matches
+   * tapping each match
+   * goes to details screen
+* enter preferences
+   * after entering
+   * goes to matches screen
+
+Find Similar Songs
+===
+
+# Med Matching
+
+## Table of Contents
+1. [Overview](#Overview)
+1. [Product Spec](#Product-Spec)
+1. [Wireframes](#Wireframes)
+2. [Schema](#Schema)
+
+## Overview
+### Description
+App that given a song on spotify, returns a list of similar songs
+
+### App Evaluation
+[Evaluation of your app across the following attributes]
+- **Category:** Music
+- **Mobile:** More convenient to use mobile to listen to music.
+- **Story:** Users who want songs similar to some song on spotify can use this to search for them.
+- **Market:** Anyone who likes music.
+- **Habit:** Used anytime someone wants to find new songs similar to ones they already like.
+- **Scope:** Users can rank different song features that they want to be more similar - start with less features, and add more.
+
+## Product Spec
+
+### 1. User Stories (Required and Optional)
+
+**Required Must-have Stories**
+
+* can log in & log out of app using spotify account
+* can see list of songs matched so far
+* can delete matched songs
+* can input filter preferences
+
+**Optional Nice-to-have Stories**
+
+* add songs as different spotify playlists
+* listen to preview of songs & delete ones not preferred
+
+### 2. Screen Archetypes
+
+* log in
+   * log into app
+* list of matches & log out button
+   * can see list of matches of songs with others
+* enter preferences of song characteristics
+    * can input filter preferences
+
+### 3. Navigation
+
+**Tab Navigation** (Tab to Screen)
+
+* list of current matches
+* enter songs to find similar ones with
+
+**Flow Navigation** (Screen to Screen)
+
+* log in
+   * submitting log in info
+   * goes to matches screen
