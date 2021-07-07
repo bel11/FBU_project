@@ -69,10 +69,15 @@ App that given a start and end location, finds the cheapest flights between the 
    * after entering
    * goes to details screen
 
+![image](https://user-images.githubusercontent.com/67809754/124814786-6d4d2d80-df34-11eb-996c-b439a637fce8.png)
+![image](https://user-images.githubusercontent.com/67809754/124814797-71794b00-df34-11eb-9eb6-4d03e511a889.png)
+![image](https://user-images.githubusercontent.com/67809754/124814810-750cd200-df34-11eb-9016-44924227b0ab.png)
+![image](https://user-images.githubusercontent.com/67809754/124814823-78a05900-df34-11eb-8f95-8fb6a13ae3c3.png)
+
 Clone of Matching Local Dogs with Playmates - Dog Tinder
 ===
 
-# Med Matching
+# Dog Matching
 
 ## Table of Contents
 1. [Overview](#Overview)
@@ -140,7 +145,7 @@ App that matches local dogs with playmates.
 Find Similar Songs
 ===
 
-# Med Matching
+# Music Matching
 
 ## Table of Contents
 1. [Overview](#Overview)
@@ -198,3 +203,12 @@ App that given a song on spotify, returns a list of similar songs
 * log in
    * submitting log in info
    * goes to matches screen
+ * can see list of matches of songs with others
+
+
+
+![image](https://user-images.githubusercontent.com/67809754/124814575-3119cd00-df34-11eb-9c9b-eeeb1bca0002.png)
+![image](https://user-images.githubusercontent.com/67809754/124814593-370fae00-df34-11eb-90b4-e6bb058f38b4.png)
+![image](https://user-images.githubusercontent.com/67809754/124814617-3d9e2580-df34-11eb-933d-7b26fea23a21.png)
+![image](https://user-images.githubusercontent.com/67809754/124814667-4d1d6e80-df34-11eb-97c8-7e30d51bea88.png)
+
