@@ -200,15 +200,17 @@ App that given several locations, finds the shortest path that lets the user vis
 **Tab Navigation** (Tab to Screen)
 
 * list of current locations
+   * GET - query all itineraries
 * enter start and end locations & loading screen
+   * POST - create a new itinerary
 
 **Flow Navigation** (Screen to Screen)
 
 * list of current start and end locations
    * tapping each list of location pairs
-   * goes to details screen
+   * goes to details screen - GET - query details
 * enter locations & loading screen
-   * after entering
+   * after entering - CREATE - create itinerary and destination
    * goes to details screen
 
 ![image](https://user-images.githubusercontent.com/67809754/124814786-6d4d2d80-df34-11eb-996c-b439a637fce8.png)
